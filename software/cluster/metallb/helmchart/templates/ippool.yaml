@@ -1,0 +1,9 @@
+apiVersion: metallb.io/v1beta1
+kind: IPAddressPool
+metadata:
+  name: kind-pool
+  namespace: {{ .Values.namespace }}
+spec:
+  addresses:
+    - {{ .Values.metallbRange }} # Adjust based on your LAN
+  autoAssign: true
