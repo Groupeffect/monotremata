@@ -124,7 +124,7 @@ service:
     loadBalancerSourceRanges: []
     annotations:
       metallb.universe.tf/address-pool: configmap-public-ips
-      metallb.universe.tf/loadBalancerIPs: 192.168.1.21
+      metallb.universe.tf/loadBalancerIPs: 192.168.0.2
     labels: {}
     loadBalancerClass:
   ## @param service.ssh.type Kubernetes service type for ssh traffic
