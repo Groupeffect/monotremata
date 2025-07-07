@@ -6,11 +6,11 @@ Have you ever asked your self if we change the climate by *asking online service
 
 ## Currently under development
 
-About:  [Project](/project)
+About:  [Project](https://groupeffect.github.io/monotremata/project/)
 
-Author: [Groupeffect](https://groupeffect.de)
+Author: [Groupeffect](https://github.com/Groupeffect)
 
 Source code on [GitHub.com](https://github.com/groupeffect/monotremata)
 
-*What is [Monotreme](https://en.wikipedia.org/wiki/Monotreme
+*Name Inspiration from [Monotreme](https://en.wikipedia.org/wiki/Monotreme
 )?*
